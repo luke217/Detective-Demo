@@ -1,0 +1,15 @@
+[
+    {
+        "id": 0,
+        "title": "Note",
+		"stackable":true,
+		"slug":"Note"
+    }
+	,
+    {
+		"id": 1,
+        "title": "Key",
+		"stackable":false,
+		"slug" : "Key"
+    }
+]

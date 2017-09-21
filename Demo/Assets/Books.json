@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Math Geek",
+    "pageNum": 0,
+    "leftPage": "",
+    "rightPage": "                                                    Math Geek             ",
+    "slug": "Note"
+  },
+  {
+    "title": "Math Geek",
+    "pageNum": 1,
+    "leftPage": "In English we use the word \"combination\" loosely, without thinking if the order of things is important. In other words:in speech\t\"My fruit salad is a combination of apples, grapes and bananas\" We don't care what order the fruits are in,",
+
+    /**/
+    "rightPage": " they could also be \"bananas, grapes and apples\" or \"grapes, apples and bananas\", its the same fruit salad.However, in speech\t\"The combination to the safe is 472\". Now we do care about ",
+    "slug": ""
+  },
+  {
+    "title": "Math Geek",
+    "pageNum": 2,
+    "leftPage": "the order. \"724\" won't work, nor will \"247\". It has to be exactly 4-7-2. So, in Mathematics we use more precise language: \tWhen the order doesn't matter, it is a Combination.\tWhen the order does matter it is a Permutation.",
+    "rightPage": "",
+    "slug": ""
+  },
+  {
+    "title": "Math Geek",
+    "pageNum": 3,
+    "leftPage": "",
+    "rightPage": "",
+    "slug": ""
+  },
+  {
+    "title": "Genius",
+    "pageNum": 0,
+    "leftPage": "",
+    "rightPage": "",
+    "slug": ""
+  },
+  {
+    "title": "Genius",
+    "pageNum": 1,
+    "leftPage": "",
+    "rightPage": "",
+    "slug": ""
+  },
+  {
+    "title": "Genius",
+    "pageNum": 2,
+    "leftPage": "",
+    "rightPage": "",
+    "slug": ""
+  },
+  {
+    "title": "Secret",
+    "pageNum": 0,
+    "leftPage": "",
+    "rightPage": "",
+    "slug": ""
+  },
+  {
+    "title": "Secret",
+    "pageNum": 1,
+    "leftPage": "",
+    "rightPage": "",
+    "slug": ""
+  },
+  {
+    "title": "Secret",
+    "pageNum": 2,
+    "leftPage": "",
+    "rightPage": "",
+    "slug": ""
+  },
+  {
+    "title": "Secret",
+    "pageNum": 3,
+    "leftPage": "",
+    "rightPage": "",
+    "slug": ""
+  },
+  {
+    "title": "Secret",
+    "pageNum": 4,
+    "leftPage": "",
+    "rightPage": "",
+    "slug": ""
+  },
+  {
+    "title": "Secret",
+    "pageNum": 5,
+    "leftPage": "",
+    "rightPage": "",
+    "slug": ""
+  },
+  {
+    "title": "Secret",
+    "pageNum": 6,
+    "leftPage": "",
+    "rightPage": "",
+    "slug": ""
+  }
+]
